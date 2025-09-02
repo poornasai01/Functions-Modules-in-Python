@@ -1,5 +1,5 @@
 **Task 1:** Calculate Factorial Using a Function  
-**Description:**
+**Description:**  
 Define a function named factorial that calculates the factorial of a given number using recursion, and returns the result.  
 **Expected Output:**  
 Enter a number: 5  
