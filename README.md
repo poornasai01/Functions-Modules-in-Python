@@ -11,7 +11,7 @@ Accept a number from the user and use the math module to calculate its
 square root  
 natural logarithm  
 sine (in radians).  
-**Expected Output:**
+**Expected Output:**  
 Enter a number: 25  
 Square root:  5.0  
 Logarithm:  3.2188758248682006  
